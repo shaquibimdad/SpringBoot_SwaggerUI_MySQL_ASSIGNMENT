@@ -1,6 +1,6 @@
 # Demo Video 🎥
 [![Demo Video](https://img.youtube.com/vi/UHHkfhFdnFA/0.jpg)](https://www.youtube.com/watch?v=UHHkfhFdnFA)
-# ASSIGNMENT
+# API Info
 
 Alice is a psychometrician who is getting people to fill her psychometric form. 
 Write an api and efficient database structure to store the results of this api.
